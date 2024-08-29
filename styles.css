@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+
+#p-h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#name{
+    font-size: 40px;
+    align-content: center;
+}
