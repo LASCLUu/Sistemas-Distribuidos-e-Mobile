@@ -135,3 +135,24 @@
 //     const livros = () => {}
 //     res.json(livros)
 // })
+
+
+
+
+//-----------------------------------//-----------------------------------//-----------------------------------//-----------------------------------//
+
+// const fs = require('fs')
+// const abrirArquivo = function(nomeArquivo){
+//funções callback
+//   const exibirConteudo = function(erro, conteudo){
+//     if(!erro){
+//       console.log(conteudo.toString())
+//       const dobro = Number(conteudo.toString()) * 2;
+//       fs.writeFile('dobro.txt')
+//     }
+//     else
+//       console.log(`Erro: ${erro}`)
+//   }
+//   fs.readFile(nomeArquivo, exibirConteudo)
+// }
+// abrirArquivo('texto.txt')
