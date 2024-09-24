@@ -156,3 +156,6 @@
 //   fs.readFile(nomeArquivo, exibirConteudo)
 // }
 // abrirArquivo('texto.txt')
+
+
+<input type="datetime-local" name="Time" id="local_time" />
